@@ -1,0 +1,72 @@
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+  font-family: arabic typesetting;
+}
+
+.modal-container {
+  background: yellow;
+  width: min(600px, 90%);
+  max-height: 92vh;
+  overflow-y: auto;
+  padding: 20px;
+  border-radius: 14px;
+  animation: zoomIn 0.25s ease;
+  position: relative;
+  font-family: arabic typesetting;
+}
+
+.modal-close {
+  position: absolute;
+  top: 8px;
+  left: 12px;
+  font-size: 28px;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.modal-title {
+  margin-bottom: 8px;
+  text-align: center;
+  font-size: 1.9rem;
+  font-weight: bold;
+  font-family: arabic typesetting;
+}
+
+.modal-section {
+  margin-top: 16px;
+  font-weight: bold;
+  font-size: 1.9rem;
+  font-family: arabic typesetting;
+}
+
+.modal-text {
+  margin-bottom: 8px;
+  text-align: auto;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: arabic typesetting;
+}
+
+.modal-source {
+  margin-top: 20px;
+  font-size: 1.9rem;
+  opacity: 0.85;
+}
+
+@keyframes zoomIn {
+  from {
+    transform: scale(0.9);
+    opacity: 0;
+  }
+  to {
+    transform: scale(1);
+    opacity: 1;
+  }
+}

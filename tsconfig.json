@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "types": ["react", "react-dom"],
+    "target": "ES6",
+    "lib": ["DOM", "DOM.Iterable", "ESNext"],
+    "allowJs": true,
+    "checkJs": false,
+    "jsx": "react-jsx", // ✅ React 17+ JSX
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true, // ✅ Pour importer les fichiers JSON
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true, // ✅ Ignore les types de librairies externes
+    "rootDir": "src",
+    "outDir": "dist",
+    "noEmit": false
+  },
+  "include": ["src"], // ✅ Tout le dossier src
+  "exclude": ["node_modules"] // ✅ Ignore node_modules
+}

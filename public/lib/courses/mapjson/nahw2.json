@@ -1,0 +1,36 @@
+{
+  "id": "1994541181572354049",
+  "version": null,
+  "createdTime": 1764370649127,
+  "modifiedTime": 1764370832616,
+  "createdBy": null,
+  "modifiedBy": "1994541181572354048",
+  "owner": "1994541181572354048",
+  "status": "saved",
+  "title": "علم النحو - تعريف الكلام وأقسامه",
+  "categories": [
+    "Language",
+    "Grammar",
+    "Arabic"
+  ],
+  "lock": "ef0d3cb0-c729-5e2f-3ba4-6d9132b082c8",
+  "prompt": "v2.0.0",
+  "settings": {},
+  "imported": null,
+  "duplicated": null,
+  "theme": {
+    "name": "default",
+    "label": "Default Theme",
+    "defs": null,
+    "mode": "light"
+  },
+  "charts": [
+    {
+      "primary": true,
+      "type": "logic_chart",
+      "topic": "علم النحو - تعريف الكلام وأقسامه",
+      "tags": [],
+      "images": []
+    }
+  ]
+}

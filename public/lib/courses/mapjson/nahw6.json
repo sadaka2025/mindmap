@@ -1,0 +1,36 @@
+{
+  "id": "1994200090927042560",
+  "version": null,
+  "createdTime": 1764289326780,
+  "modifiedTime": 1764289648398,
+  "createdBy": "1994024862074671104",
+  "modifiedBy": "1994024862074671104",
+  "owner": "1994024862074671104",
+  "status": "saved",
+  "title": "علامات الحرف (في الإعراب)",
+  "categories": [
+    "اللغة العربية",
+    "النحو",
+    "قواعد"
+  ],
+  "lock": "a6f4c622-a314-552e-479d-8f2b0be3713e",
+  "prompt": "v2.0.0",
+  "settings": {},
+  "imported": null,
+  "duplicated": null,
+  "theme": {
+    "name": "midnight_pro",
+    "label": "Midnight Pro",
+    "defs": null,
+    "mode": "light"
+  },
+  "charts": [
+    {
+      "primary": true,
+      "type": "logic_chart",
+      "topic": "الدرس السابع علامات الحرف (في الإعراب)",
+      "tags": [],
+      "images": []
+    }
+  ]
+}

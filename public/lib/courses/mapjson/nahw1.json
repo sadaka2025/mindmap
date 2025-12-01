@@ -1,0 +1,36 @@
+{
+  "id": "1994422969237114880",
+  "version": null,
+  "createdTime": 1764342465110,
+  "modifiedTime": 1764368546586,
+  "createdBy": "1994024862074671104",
+  "modifiedBy": "1994024862074671104",
+  "owner": "1994024862074671104",
+  "status": "saved",
+  "title": "الدرس عدد 0: مقدمة للتعريف بالمادة والأستاذ",
+  "categories": [
+    "اللغة العربية",
+    "النحو",
+    "الدراسات الإسلامية"
+  ],
+  "lock": "20c3a019-f336-6e73-3c4a-401270ce811f",
+  "prompt": "v2.0.0",
+  "settings": {},
+  "imported": null,
+  "duplicated": null,
+  "theme": {
+    "name": "midnight_pro",
+    "label": "Midnight Pro",
+    "defs": null,
+    "mode": "light"
+  },
+  "charts": [
+    {
+      "primary": true,
+      "type": "logic_chart",
+      "topic": "الدرس عدد 0: مقدمة للتعريف بالمادة والأستاذ",
+      "tags": [],
+      "images": []
+    }
+  ]
+}

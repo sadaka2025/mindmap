@@ -1,0 +1,36 @@
+{
+  "id": "1994024862074671105",
+  "version": null,
+  "createdTime": 1764247548966,
+  "modifiedTime": 1764280729296,
+  "createdBy": null,
+  "modifiedBy": "1994024862074671104",
+  "owner": "1994024862074671104",
+  "status": "saved",
+  "title": "علامات الأفعال في اللغة العربية",
+  "categories": [
+    "لغة",
+    "نحو",
+    "تعليم"
+  ],
+  "lock": "ef567a07-4c35-cb2b-6674-208645fbf738",
+  "prompt": "v2.0.0",
+  "settings": {},
+  "imported": null,
+  "duplicated": null,
+  "theme": {
+    "name": "luminus",
+    "label": "Luminus Theme",
+    "defs": null,
+    "mode": "light"
+  },
+  "charts": [
+    {
+      "primary": true,
+      "type": "logic_chart",
+      "topic": "الدرس الخامس علامات الاسم 2 علامات الأفعال في اللغة العربية",
+      "tags": [],
+      "images": []
+    }
+  ]
+}
